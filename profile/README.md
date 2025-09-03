@@ -5,4 +5,6 @@ This repository contains the code for the Data AcQuisition (DAQ) team, including
 
 This also contains the low voltage repositories, including the [Boards](https://github.com/UCLA-Bruin-Supermileage/SMV_boards) and [Components](https://github.com/UCLA-Bruin-Supermileage/SMV_components).
 
-Lastly, it contains the ode for the public-facing website [bruinsmv.com](https://github.com/UCLA-Bruin-Supermileage/bruinsmv.com)
+This also contains the [Bear firmware](https://github.com/UCLA-Bruin-Supermileage/Bear-Motor-Controller-Custom) for Powertrain.
+
+Lastly, it contains the code for the public-facing website [bruinsmv.com](https://github.com/UCLA-Bruin-Supermileage/bruinsmv.com)
